@@ -48,7 +48,6 @@ const MyProfile = () => {
   return (
     <Profile
         name= {session?.user.name} 
-        poss="'s "
         desc="Welcome to your personized profile page"
         data={posts}
         handleEdit={handleEdit}
