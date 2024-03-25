@@ -4,8 +4,8 @@ import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
 export const metadata = {
-  title: "Promptopia",
-  description: "Discover & Share AI Prompts",
+  title: "ETEC Services Support",
+  description: "ETEC provides access to our remote help desk software for enhanced customer support.",
 };
 
 const RootLayout = ({children}) => {
